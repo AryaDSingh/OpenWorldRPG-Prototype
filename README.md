@@ -9,5 +9,5 @@ E again to unequip/reequip
 
 LMB to swing.
 
-Left Alt = Dodge/n
+Left Alt = Dodge \n
 Spacebar = Jump
