@@ -8,6 +8,5 @@ Find a weapon in the world and click e to equip it.
 E again to unequip/reequip
 
 LMB to swing.
-
-Left Alt = Dodge \n
+Left Alt = Dodge
 Spacebar = Jump
